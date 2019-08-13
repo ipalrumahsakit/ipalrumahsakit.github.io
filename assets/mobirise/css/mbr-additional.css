@@ -5103,8 +5103,27 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-qTkA127IK8 {
-  background-image: url("../../../assets/images/portofolio-ipal-14-2000x1125.jpg");
+.cid-rz2gUsm2e8 {
+  background: #0f7699;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #55b4d4, #0f7699);
+}
+.cid-rz2gUsm2e8 .image-block {
+  margin: auto;
+}
+.cid-rz2gUsm2e8 figcaption {
+  position: relative;
+}
+.cid-rz2gUsm2e8 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rz2gUsm2e8 .image-block {
+    width: 100% !important;
+  }
 }
 .cid-rytpDyYgQC {
   padding-top: 90px;
@@ -5143,8 +5162,27 @@ body {
 .cid-ryIUZEXEHF DIV {
   color: #232323;
 }
-.cid-ryJwWPvjxt {
-  background-image: url("../../../assets/images/cara-memilih-jasa-ipal-murah-rumah-sakit-ipal-pabrik-ipal-klinik-ipal-mall-tbs-2000x865.jpg");
+.cid-rz2irrvOKE {
+  background: #ff3366;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #cc2952, #ff3366);
+}
+.cid-rz2irrvOKE .image-block {
+  margin: auto;
+}
+.cid-rz2irrvOKE figcaption {
+  position: relative;
+}
+.cid-rz2irrvOKE figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rz2irrvOKE .image-block {
+    width: 100% !important;
+  }
 }
 .cid-ryWyQDMM7P {
   padding-top: 30px;
